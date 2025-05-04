@@ -1,0 +1,15 @@
+https://www.npackd.org/p/com.google.AppEnginePythonSDK/1.9.62
+
+setup python 2.7 and google app engine 
+edit preferences 
+C:\Python27\pythonw.exe
+C:\Program Files (x86)\Google\google_appengine
+ok
+create app folder on desktop
+file 
+create new application 
+choose app folder directory
+run
+localhost:8080
+
+https://www.youtube.com/watch?v=2lhOEO-zmjw

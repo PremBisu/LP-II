@@ -1,0 +1,7 @@
+https://orgfarm-6d0446d170-dev-ed.develop.lightning.force.com/lightning/setup/SetupOneHome/home
+
+abhishekdoke233870@agentforce.com
+
+
+direct access app
+https://orgfarm-6d0446d170-dev-ed.develop.lightning.force.com/lightning/o/student_A__c/list?filterName=__Recent
